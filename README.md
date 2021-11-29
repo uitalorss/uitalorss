@@ -1,5 +1,5 @@
 ### Olá!! 👋
-### Me chamo Uítalo Souza e sou Desenvolvedor.
+### Me chamo Uítalo Souza e sou Desenvolvedor Front-End.
 
  <div>
   <a href="https://github.com/uitalorss">
