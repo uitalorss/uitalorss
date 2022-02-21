@@ -16,7 +16,7 @@
   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/office/16/000000/react.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
 </div>
   
 ##
