@@ -1,5 +1,9 @@
 ## Olá!! 👋
-#### Me chamo Uítalo Souza, moro em Salvador - BA. Sou graduando em Sistemas de Informação pela UNIFACS e desde 2021 estou trabalhando como dev Front-End.
+#### Sou de Salvador, nascido no início da geração Z, apaixonado por tecnologia, esportes, boas histórias e não consigo começar o dia sem um bom café quente ao meu lado. 
+
+Durante anos trabalhei no setor comercial voltado à saúde e, por lidar em um ambiente de bastante pressão, onde lidávamos em fornecer suprimentos para salvar vidas, pude aprimorar características como saber lidas com situações adversas, tomar decisões rápidas e assertivas e analisar com cuidado e empatia cada situação para encaminhar de forma adequada. Entretanto, trabalhar com tecnologia sempre foi um desejo pessoal, por ser fascinado pela possibilidade de impactar de forma positiva o meio onde vivo.
+
+Com esse objetivo, comecei em paralelo a estudar, iniciando a Graduação em Sistemas de Informação pela UNIFACS e também a desenvolver projetos pessoais voltados a desenvolvimento Web. Usando ferramentas como HTML, CSS, Javascript, React, Node.js, Express. Ao longo dessa trajetória também tive oportunidade em trabalhar com desenvolvimento ágil através do Scrum.
 
 
 
