@@ -3,6 +3,8 @@
 
 Durante anos trabalhei no setor comercial voltado à saúde e, por lidar em um ambiente de bastante pressão, onde desenvolvi capacidade de tomar decisões rápidas e assertivas e analisar com cuidado e empatia cada situação para encaminhar de forma adequada. Entretanto, trabalhar com tecnologia sempre foi um desejo pessoal, por ser fascinado pela possibilidade de impactar de forma positiva o meio onde vivo. Assim, hoje trabalho desenvolvendo soluções com React, Typescript, Nodejs, express e Banco de daodos SQL.
 
+
+
  <div>
   <a href="https://github.com/uitalorss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uitalorss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
