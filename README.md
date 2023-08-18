@@ -1,9 +1,8 @@
-## Olá! Me Chamo Uítalo Souza!! 👋
-#### Sou desenvolvedor Full Stack
+## Olá pessoas! 👋
 
-Durante anos trabalhei no setor comercial voltado à saúde e, por lidar em um ambiente de bastante pressão, consegui desenvolver habilidades em tomar decisões rápidas e assertivas e analisar com cuidado e empatia cada situação para encaminhar de forma adequada. Entretanto, trabalhar com tecnologia sempre foi um desejo pessoal, por ser fascinado pela possibilidade de impactar de forma positiva o meio onde vivo. Assim, hoje trabalho desenvolvendo soluções com React, Typescript, Nodejs, express e Banco de daodos SQL.
+Me chamo Uítalo Souza e sou desenvolvedor Full Stack. 
 
-
+Por ser fascinado pela possibilidade de impactar de forma positiva o meio onde vivo através da tecnologia, hoje trabalho desenvolvendo soluções Full stack com React, Typescript, Nodejs, express e Banco de daodos SQL. Aqui você encontrará um pouco da minha trajetória na programação através de projetos desenvolvidos.
 
  <div>
   <a href="https://github.com/uitalorss">
